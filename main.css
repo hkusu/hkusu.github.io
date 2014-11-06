@@ -1,0 +1,11 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: lightgoldenrodyellow;
+  color: gray;
+  font-size: 12px;
+}
+a:link { color: gray; }
+a:visited { color: gray; }
+a:hover { color: #ff0000; }
+a:active { color: #ff8000; }
